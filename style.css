@@ -87,3 +87,12 @@ button{
     line-height: 37.5px;
     text-align: center;
 }
+
+.text-condition{
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 37.5px;
+    text-align: center;
+    width: 100%;
+}
